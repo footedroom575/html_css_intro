@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background-color: rgb(0, 140, 255);
+}
+
+#myImg{
+    width: 400px;
+    height: 400px;
+    border-radius: 25px;
+    border: solid yellow;
+}
+
+h1,h2{
+    font: Arial;
+
+}
+
+a{
+    font-size: 20px;
+}
+
+li{
+    color: brown;
+}
+
+p{
+    text-align: right;
+}
+
+.myFirstClass {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.linkClass {
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-bottom: 20px;
+    padding-right: 25px;
+
+}
